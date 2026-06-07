@@ -1,8 +1,8 @@
-# Hi, I'm Sakshi!
+# Hi, I'm Sakshi !
 
-I'm a final-year Engineering student, building backend systems, full-stack web apps, and AI-powered tools. I care about shipping things that actually work — not just in theory.
+I'm a final-year  Engineering student, building backend systems, full-stack web apps, and AI-powered tools. I care about shipping things that actually work — not just in theory.
 
-📍 Bengaluru, India &nbsp;|&nbsp; 📧 sakshidesai1165@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/sakshimdesai) &nbsp;|&nbsp; [Resume](#)
+📍 Bengaluru, India &nbsp;|&nbsp; 📧 sakshidesai1165@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/sakshimdesai) &nbsp;
 
 ---
 
@@ -27,19 +27,22 @@ Built an event-driven inventory synchronization system between an ERP and Shopif
 ## 🚀 Projects
 
 ### [Reflexion Code Agent](https://github.com/sakshimdesai/Reflexion-Code-Agent) — *Agentic AI · Python · Groq · Streamlit*
-An AI agent that writes Python code from a plain-language task, runs it automatically, captures runtime errors, and iteratively fixes them — until the code works or the iteration limit is reached. Not just code generation: it's a closed-loop generate → execute → reflect → retry system. Built on LLaMA 3.1 via Groq, with a Streamlit interface showing execution logs and debug history.
+Most AI code tools give you code. You still have to run it, hit errors, paste them back, and repeat. This agent closes that loop entirely — it generates Python code, executes it via subprocess, captures runtime errors, feeds them back to the LLM, and retries until the code actually works. It's not a chatbot wrapper. It's a closed-loop generate → execute → reflect → fix system built on LLaMA 3.1 via Groq, with a Streamlit UI showing full iteration history and debug logs.
 
 ### [LinkGen AI](https://github.com/sakshimdesai/linkgen-ai) — *Generative AI · Python · Streamlit · Groq*
-A LinkedIn post generator that goes beyond simple rephrasing — supports multi-model comparison (LLaMA 3.1 8B vs 70B) and multi-tone generation (formal, casual) in one click. Built to demonstrate how prompt engineering and model orchestration produce meaningfully different outputs. Includes hashtag suggestions, engagement scoring, and multilingual support (English, Hindi, Kannada).
+Not another LinkedIn post generator — this one lets you compare how LLaMA 3.1 8B vs 70B handle the exact same prompt side by side, and generates formal + casual tone variations in one click. The interesting part is the prompt engineering underneath: each tone has custom conditioning, not just keyword swaps. Supports English, Hindi, and Kannada. Built to show that model orchestration and prompt design produce meaningfully different outputs — not interchangeable ones.
 
 ### [Placement Hub](https://placement-hub-xpmr.onrender.com) — *Full-Stack · Flask · SQLite · HTML/JS*
-A deployed placement preparation platform for students. Handles heterogeneous content (DSA with Python + Java solutions, aptitude, HR, resume tips) from a single Flask + SQLite backend with dynamic rendering per category. Admin tooling was intentionally removed before production — a deliberate decision to reduce attack surface and ensure stability. [GitHub](https://github.com/sakshimdesai/PLACEMENT-HUB)
+The interesting architectural decision here: the backend serves heterogeneous content — DSA questions with Python + Java solutions, aptitude with single explanations, HR with text guidance — all from one Flask + SQLite backend with conditional rendering logic per category. The admin panel was completely removed before production (not hidden, removed) — a deliberate call to reduce attack surface and ship a stable, read-only system. 
 
 ### [Hormone Harmony](https://github.com/sakshimdesai/Hormone-Harmony) — *Full-Stack · Flask · SQLite · Chart.js*
-A PCOD/PCOS wellness platform with symptom logging, interactive data visualizations, cycle phase education, meal recommendations, and myth-busting content. Designed with ethical constraints — no cycle prediction, no medical diagnosis, sensitive data handled responsibly. Built as a team project with clean backend API design and Chart.js dashboards.
+Built for a gap that generic period trackers ignore: PCOS introduces irregular cycles, hormonal variability, and symptoms that don't fit the standard 28-day model. This platform focuses on symptom logging, pattern visualization over time, cycle phase education (with PCOS-specific context), a myth-busting module targeting Indian misconceptions, and a meal guidance section. Hard constraint: no cycle prediction, no medical diagnosis — ethics baked into the architecture, not bolted on.
+
+### [GroupReceipt](https://github.com/sakshimdesai/group_receipt) — *Flutter · Dart · Firebase Firestore*
+Built to solve a specific frustration: in group projects, self-reported hours are unverifiable and easily gamed. GroupReceipt makes it structurally impossible to mark a task done without pasting a real proof link — GitHub, Google Doc, Figma, Drive, anything with a URL. At the end, the app generates a shareable visual receipt with each member's contribution percentage and a verdict: Carried / Solid / Barely There / Ghost. No accounts, no friction — join by a 5-character code.
 
 ### Phishing URL & SMS Detection *(Final Year Project — In Progress)*
-An ML pipeline to detect phishing URLs and SMS messages with a focus on India-specific patterns that Western models miss: fake UPI pages, IRCTC/DigiLocker impersonations, Hinglish urgency language, and regional language SMS scams. Using Random Forest + XGBoost trained on the PhiUSIIL dataset (235K URLs), extended with manually collected Indian phishing samples. SHAP explanations provide per-prediction reasoning. Research contribution: gap analysis of how Western-trained models generalize to Indian phishing.
+The research gap this addresses: tools like Google Safe Browsing are trained almost entirely on Western phishing data and systematically miss India-specific patterns — fake UPI pages mimicking PhonePe/GPay, IRCTC/DigiLocker impersonations, Hinglish urgency language, regional SMS scams in Kannada and Hindi. Building a Random Forest + XGBoost pipeline on the PhiUSIIL dataset (235K URLs), extended with manually collected Indian phishing samples. SHAP values explain per-prediction reasoning. The research contribution is the gap analysis itself: how Western-trained models fail on Indian phishing.
 
 ---
 
@@ -48,7 +51,7 @@ An ML pipeline to detect phishing URLs and SMS messages with a focus on India-sp
 - **Walmart Global Tech Sparkathon 2025** — Proposed *Smart Cart*, a location-based grocery discovery system that matches users' dietary preferences to real-time store inventory
 - **Varroc Eureka Challenge 3.0** *(results awaited)* — Team Synara proposed an AI-driven design intelligence system for early-stage CAD validation, enabling real-time automated design checks and deviation detection within CAD environments
 - **Tata Elxsi TELIPORT Season 3 Ideathon 2026** — Proposed *SafetyGate GenAI*, an AI-assisted safety validation framework for software-defined vehicle workflows and engineering decision support
-- **UNESCO Youth Hackathon 2025** — Prototyped *News Nutrition Label*, an NLP-based framework for analyzing news credibility, bias, and factual reliability.
+- **UNESCO Youth Hackathon 2025** — Prototyped *News Nutrition Label*, an NLP-based framework for analyzing news credibility, bias, and factual reliability
 
 ---
 

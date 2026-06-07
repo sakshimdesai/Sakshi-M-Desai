@@ -1,6 +1,6 @@
-# Hi, I'm Sakshi 👋
+# Hi, I'm Sakshi!
 
-I'm a final-year Information Science & Engineering student at DSAT Bengaluru, building backend systems, full-stack web apps, and AI-powered tools. I care about shipping things that actually work — not just in theory.
+I'm a final-year Engineering student, building backend systems, full-stack web apps, and AI-powered tools. I care about shipping things that actually work — not just in theory.
 
 📍 Bengaluru, India &nbsp;|&nbsp; 📧 sakshidesai1165@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/sakshimdesai) &nbsp;|&nbsp; [Resume](#)
 

@@ -2,7 +2,7 @@
 
 # Hi, I'm Sakshi 👋
 
-### Final-year Information Science engineer building backend systems, full-stack platforms, and AI-powered tools
+### Final-year Engineering student building backend systems, full-stack platforms, and AI-powered tools
 
 [![Email](https://img.shields.io/badge/Email-sakshidesai1165%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshidesai1165@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshimdesai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshimdesai)
@@ -16,8 +16,6 @@
 ## About Me
 
 I care about shipping things that actually work — not just in theory. Almost everything below started with "how do I fix this specific, annoying problem" rather than "what would look good on a resume." That shows up in the architecture decisions as much as the feature lists: a mock server that generates routes it doesn't know about yet, an AI health layer that's structurally forbidden from hallucinating, an ERP that refuses to let inventory go negative.
-
-Final year of **B.E. Information Science & Engineering** at Dayananda Sagar Academy of Technology and Management (graduating 2027) — currently open to **SWE / Backend / AI Engineering** roles.
 
 ---
 
@@ -166,15 +164,6 @@ Self-reported hours in group projects are unverifiable and trivially gameable. G
 ## 📜 Certifications
 
 - **SAP Certified – Data Analyst (SAP Analytics Cloud, C_SAC)** — enterprise analytics, dashboard design, analytical data modeling and planning
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshimdesai&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshimdesai&layout=compact&theme=tokyonight" alt="Top languages" />
-</div>
 
 ---
 
